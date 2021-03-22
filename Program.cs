@@ -24,7 +24,7 @@ namespace _12_ejercicio_clase_animales
             Console.WriteLine("Numero de patas:" + p.Patas);
             Console.WriteLine("");
 
-            Gato g = new Gato(" Gato: Chay",4,"Si");
+            Gato g = new Gato("Gato: Chay",4,"Si");
             g.Comer();
             g.Caminar();
             g.Maullar();
