@@ -5,7 +5,7 @@ public class Mono: Mamifero
 
     public void Maullar()
     {
-        Console.WriteLine("El Mono Hace: ---> AAaaa... Uuuuu... UaUuAAaaaa..");
+        Console.WriteLine("El Mono Hace : ---> AAaaa... Uuuuu... UaUuAAaaaa..");
     }
         public override void Comer()
     {
