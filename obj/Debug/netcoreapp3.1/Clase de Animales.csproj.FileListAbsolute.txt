@@ -1,0 +1,13 @@
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Clase de Animales\bin\Debug\netcoreapp3.1\Clase de Animales.exe
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Clase de Animales\bin\Debug\netcoreapp3.1\Clase de Animales.deps.json
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Clase de Animales\bin\Debug\netcoreapp3.1\Clase de Animales.runtimeconfig.json
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Clase de Animales\bin\Debug\netcoreapp3.1\Clase de Animales.runtimeconfig.dev.json
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Clase de Animales\bin\Debug\netcoreapp3.1\Clase de Animales.dll
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Clase de Animales\bin\Debug\netcoreapp3.1\Clase de Animales.pdb
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Clase de Animales\obj\Debug\netcoreapp3.1\Clase de Animales.csprojAssemblyReference.cache
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Clase de Animales\obj\Debug\netcoreapp3.1\Clase de Animales.AssemblyInfoInputs.cache
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Clase de Animales\obj\Debug\netcoreapp3.1\Clase de Animales.AssemblyInfo.cs
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Clase de Animales\obj\Debug\netcoreapp3.1\Clase de Animales.csproj.CoreCompileInputs.cache
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Clase de Animales\obj\Debug\netcoreapp3.1\Clase de Animales.dll
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Clase de Animales\obj\Debug\netcoreapp3.1\Clase de Animales.pdb
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Clase de Animales\obj\Debug\netcoreapp3.1\Clase de Animales.genruntimeconfig.cache
