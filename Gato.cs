@@ -12,7 +12,7 @@ public class Gato: Mamifero
 
     public void Maullar()
     {
-        Console.WriteLine("El Gato Hace: --->  Miau miau miau");
+        Console.WriteLine("El Gato Hace : --->  Miau miau miau");
     }
         public override void Comer()
     {
